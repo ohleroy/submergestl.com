@@ -10,6 +10,10 @@ body {
     color: #{{ site.color.secondary-dark }};
 }
 
+.btn {
+ color: #e9d000;   
+}
+
 .text-muted {
     color: #777;
 }
